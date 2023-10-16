@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ebae6325b39c36a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd4f00243656e927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43e16fb61f8e1826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/When to use caching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2897a3a3f205ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Startup that grows from 0 to 2B valuation in a year.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a82d8b1cc49781b9",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0236daa223f37119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0336a2177e57c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e84a9fb5c4298295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d503e30c05b1320",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcca8f8ce195b706",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "685a34bb1c407e92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46eb5ab1a4803901",
+    "type": "split",
+    "children": [
+      {
+        "id": "44beb4442b19f7a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1ed2c5f14e1f38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00bd595dc1e0948f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42042cc4cb489be7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d6a7912a9c026da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "0236daa223f37119",
+  "lastOpenFiles": [
+    "3. Resources/Startup that grows from 0 to 2B valuation in a year.md",
+    "Events",
+    "2. Areas/Product Development.md",
+    "3. Resources/Things to consider when buying expensive items.md",
+    "3. Resources/Server side events (SSE).md",
+    "2. Areas/Financial Management.md",
+    "2. Areas/Workforce.md",
+    "Home.md",
+    "3. Resources/Why remote work won't last.md",
+    "3. Resources/20 Inventions that will change the world.md",
+    "3. Resources/Redis as persistent data store.md",
+    "3. Resources/When to use caching.md",
+    "Templates/Metadata.md",
+    "3. Resources/Websockets.md",
+    "3. Resources/How stack overflow caches apps for a multitenant architecture.md",
+    "2. Areas/Database.md",
+    "2. Areas/Ideas.md",
+    "1. Projects/Personal.md",
+    "1. Projects/Entrepreneurship.md",
+    "1. Projects/Career.md",
+    "2. Areas/API Development.md",
+    "Templates/Areas.md",
+    "Attachments/Untitled 1.png",
+    "Attachments/Untitled.png",
+    "[Fetching Title.md",
+    "Attachments/Untitled 9.png",
+    "Attachments/Untitled 8.png",
+    "Attachments/Untitled 7.png",
+    "Attachments/Untitled 6.png",
+    "Attachments/Untitled 5.png",
+    "Attachments/Untitled 4.png",
+    "Attachments/Untitled 3.png",
+    "Attachments",
+    "1. Projects",
+    "Table of contents/Areas.md",
+    "Archive/Projects/Career.md",
+    "Archive/Projects",
+    "4. Archive",
+    "Table of contents/All.md",
+    "3. Resources",
+    "2. Areas",
+    "Table of contents",
+    "Templates",
+    "Untitled.canvas"
+  ]
+}
